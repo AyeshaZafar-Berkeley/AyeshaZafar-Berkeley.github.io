@@ -9,6 +9,7 @@ title: About Me
   <a href="/projects" style="margin-right:1rem;">Projects</a>
 </div>
 
+![Ayesha Zafar](/assets/img/profile.jpg) 
 # Ayesha Zafar
 
 I’m a policy expert and data enthusiast who loves digging into the “why” behind global challenges. Whether it’s understanding why poverty persists in the Global South despite economic growth, why gender gaps persist in classrooms and parliaments, or how conservation efforts can be community-driven, I’m driven by one question: how do we turn research into impact?
