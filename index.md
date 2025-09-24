@@ -9,10 +9,11 @@ title: About Me
 </div>
 
 <!-- Headshot on the left -->
-<img src="{{ '/assets/img/profile.jpg' | relative_url }}"
+<img src="{{ '/assets/img/Ayesha_Zafar.jpg' | relative_url }}"
      alt="Ayesha Zafar"
      width="180"
      style="float:left; margin:0 1rem 1rem 0; border-radius:50%;"/>
+
 
 # Ayesha Zafar
 
